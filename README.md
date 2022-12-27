@@ -11,18 +11,19 @@
   <a href="https://www.linkedin.com/in/VaidehiSom/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+<!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> <!--
-  <a href="your-twitter-URL">
+  </a>  -->
+  
+  <a href="https://twitter.com/SomVaidehi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
  </div>
 <!-- <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/> -->
 </div>
 
 ---
-### :man_technologist: About Me :
+### 👩‍💻: About Me :
 - :telescope: Interested in making a future possible where humans can focus on important tasks at hand and leave the task of locomotion to intelligent robots and Self-Driving Cars, thus saving lives and time.
 
 - :seedling: Experienced in and exploring robotic perception and navigation subfields.
