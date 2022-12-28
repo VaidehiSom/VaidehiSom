@@ -21,17 +21,17 @@
  </div> -->
 <!-- <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/> -->
 <!-- </div> -->
-<!-- 
+
 ### 👩‍💻: About Me :
-- :telescope: Interested in making a future possible where humans can focus on important tasks at hand and leave the task of locomotion to intelligent robots and Self-Driving Cars, thus saving lives and time.
+- :telescope: Interested in making a future possible where humans can focus on important tasks at hand and leave mundane tasks of locomotion to intelligent robots and Self-Driving Cars, thus saving time
 
-- :seedling: Experienced in and exploring robotic perception and navigation subfields.
+- :seedling: Experienced in and exploring robot learning, robotic perception, and navigation subfields.
 
-- :zap: In my free time, I like to watch intruiging STEM videos on youtube, be active on robotics communities (subreddits, discourse, linkedIn), go through open source projects and watch strength sports.
+<!-- - :zap: In my free time, I like to watch intruiging STEM videos on youtube, be active on robotics communities (subreddits, discourse, linkedIn), go through open source projects and watch strength sports. -->
 
-- :bulb: Research exposure: Visual Inertial Odometry pipeline (ROS, C++).
+- :bulb: Research exposure: Deep Learning and Perception
 
-- :scroll: Work history in ROS (AMRs, drone autopilot and manipulators), Robotic Simulations, embedded, Sensor Integration, Computer Vision in past projects with C++ and python as preferred programming languages. -->
+- :scroll: Work history in Robot Control, ROS (AMRs), Robotic simulation, Computer Vision with C++ and python as preferred programming languages.
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
