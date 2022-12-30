@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="./hi-robot.gif" width="200"/>
+  <img src="astro-bot-astro-bot-rescue-mission.gif\ (1)" width="200"/>
   <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to my profile!
