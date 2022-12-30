@@ -1,5 +1,6 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fSY6yO7pyoMTWYNHVE/giphy.gif" width="200"/>
+<div id="header" align="center">
+  
+  <img src="./hi-robot.gif" width="200"/>
   <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to my profile!
@@ -10,7 +11,7 @@
 
   <a href="https://www.linkedin.com/in/VaidehiSom/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>  -->
